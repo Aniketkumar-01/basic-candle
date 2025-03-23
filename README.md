@@ -21,7 +21,7 @@ Welcome to the **Candle Animation Project**! This is a beautifully crafted CSS a
 
 ## 📸 Visuals
 ### Candle Animation Preview
-![Candle Animation Preview](path/to/your/screenshot.png)
+![Candle Animation Preview]( https://aniketkumar-01.github.io/basic-candle/)
 > *A mesmerizing, flickering candle flame built purely with CSS!*
 
 ---
